@@ -4,11 +4,14 @@ A new Flutter project.
 
 https://flutter.dev/docs/development/data-and-backend/json
 run command below to build JSON (example.g.dart)
+```
 flutter packages pub run build_runner build
+```
 
 run command below to build JSON continuosly with watcher
+```
 flutter packages pub run build_runner watch 
-
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
